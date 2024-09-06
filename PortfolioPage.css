@@ -73,7 +73,7 @@ main {
 }
 
 /*Styling Project sections*/
-#projects, #certi {
+#projects {
 	text-align: center;
 	margin: 0;
 	padding: 10px 0;
@@ -84,9 +84,7 @@ main {
 	height: 100%;
 }
 
-#certi {
-	background-color: #303841;
-}
+
 
 .project-title {
 	text-decoration: underline;
@@ -139,9 +137,7 @@ main {
 	background-color: #303841;
 }
 
-.certi-img p{
-	background-color: #45567d;
-}
+
 #showAll {
 	margin-top: 100px;
 	padding: 10px 20px;
